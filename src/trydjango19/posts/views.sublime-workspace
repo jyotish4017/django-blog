@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qu",
+				"query"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"queryset",
+				"queryset_list"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"P",
+				"Post"
+			],
+			[
+				"is",
+				"is_superuser"
+			],
+			[
+				"ti",
+				"timezone"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"Po",
+				"PostManager"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"a",
+				"auto_now"
+			],
+			[
+				"sh",
+				"share_string"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"slu",
+				"slugify"
+			],
+			[
+				"pre",
+				"pre_save_post_receiver"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"up",
+				"upload_location"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"no",
+				"None"
+			],
+			[
+				"s",
+				"col-sm-6"
+			],
+			[
+				"co",
+				"col-sm-6"
+			],
+			[
+				"c",
+				"col-sm-6"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"STAT",
+				"STATIC_URL"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Htt",
+				"httpResponse"
+			],
+			[
+				"Pos",
+				"PostModelAddmin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jyotish/trydjango19/posts/views.py",
+		"/C/Users/Jyotish/trydjango19/templates/post_list.html",
+		"/C/Users/Jyotish/trydjango19/posts/models.py",
+		"/C/Users/Jyotish/trydjango19/posts/forms.py",
+		"/C/Users/Jyotish/trydjango19/templates/post_detail.html",
+		"/C/Users/Jyotish/trydjango19/templates/base.html",
+		"/C/Users/Jyotish/trydjango19/posts/templatetags/urlify.py",
+		"/C/Users/Jyotish/trydjango19/posts/urls.py",
+		"/C/Users/Jyotish/trydjango19/trydjango19/settings.py",
+		"/C/Users/Jyotish/trydjango19/posts/templatetags/__init__.py",
+		"/C/Users/Jyotish/trydjango19/posts/migrations/0002_auto_20170305_0534.py",
+		"/C/Users/Jyotish/trydjango19/templates/post_form.html",
+		"/C/Users/Jyotish/trydjango19/trydjango19/urls.py",
+		"/C/Users/Jyotish/trydjango19/static/css/base.css",
+		"/C/Users/Jyotish/trydjango19/templates/message_display.html",
+		"/C/Users/Jyotish/trydjango19/templates/index.html",
+		"/C/Users/Jyotish/trydjango19/posts/admin.py",
+		"/F/machine_learning_udacity/3.P1 Predicting Boston Housing Prices/1.Model Evaluation and Validation/15. Submit/boston_housing.ipynb",
+		"/C/Users/Jyotish/Downloads/Compressed/ipknHama_0_0/qra.py",
+		"/C/Users/Jyotish/Downloads/Compressed/grebnesieh_0_0/code.py",
+		"/C/Users/Jyotish/Downloads/Compressed/grebnesieh_0_0.zip",
+		"/F/New folder/udacity-data-analyst-nanodegree-master/udacity-data-analyst-nanodegree-master/P7 - Design and Analyze an A-B Test/README.md",
+		"/F/New folder/udacity-data-analyst-nanodegree-master/udacity-data-analyst-nanodegree-master/P6 - Tell Stories with Data Visualization/js/vis_final.js",
+		"/F/New folder/udacity-data-analyst-nanodegree-master/udacity-data-analyst-nanodegree-master/P5 - Identifying Fraud from Enron Emails and Financial Data/tools/email_preprocess.pyc",
+		"/F/machine_learning_udacity/3.P1 Predicting Boston Housing Prices/1.Model Evaluation and Validation/5. Numpy & Pandas Tutorials/9. Pandas Playground - Indexing Dataframes.py",
+		"/F/machine_learning_udacity/3.P1 Predicting Boston Housing Prices/1.Model Evaluation and Validation/5. Numpy & Pandas Tutorials/7.1 Create a DataFrame.py",
+		"/F/sherlock/Sherlock.The.Abominable.Bride.2016.1080p.BRRip.x264.AAC-ETRG-resync.srt",
+		"/F/New folder/udacity-data-analyst-nanodegree-master/udacity-data-analyst-nanodegree-master/P4 - Explore and Summarize Data/README.md"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "views.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
